@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url(/Amazon-Logo.webp);
+    background-image: url(/public/images/Amazon-Logo.webp);
     background-size: cover;
     height: 50px;
     width: 100%;
