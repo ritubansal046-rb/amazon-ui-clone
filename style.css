@@ -1,0 +1,110 @@
+* {
+    margin:0;
+    font-family: arial;
+    border:border-box;
+}
+
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-logo{
+    height: 50px;
+    width: 130px;
+}
+
+.logo{
+    background-image: url(/Amazon-Logo.webp);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+
+/** styling of box-2 **/
+.first-address{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 17px;
+}
+
+.sec-address{
+    font-size: 1rem;
+}
+
+.add-icon{
+    display: flex;
+    /* align-items: center; */
+}
+
+/* Styling box-3 that is search bar in navbar */
+.search{
+    display: flex;
+    background-color: pink;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+    justify-content: space-evenly;
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    background-color:#febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #0f1111;
+}
+
+.search:hover {
+    border: 2px solid orange;
+}
+
+/* Styling box-4 of navbar */
+.nav-first {
+    font-size: 12px;
+}
+
+.nav-sec {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* Styling box-6 that is cart of navbar */
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart {
+    font-size: 14px;
+    font-weight: 700;
+}
