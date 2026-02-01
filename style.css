@@ -133,3 +133,30 @@
     font-size: 14px;
     font-weight: 700;
 }
+
+/* styling mains section*/
+.main-sec {
+    background-image: url(/public/images/main_image.jpg);
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.message {
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-bottom: 25px;
+
+}
+
+.message a {
+    color: #007185;
+}
