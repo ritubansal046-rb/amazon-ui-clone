@@ -8,6 +8,6 @@ CSS - Styling and Layout <br>
 Git & GitHub - Version control and Project hosting
 
 <br><hr>
-Author-Ritu Bansal
+Created By-Ritu Bansal
 <br>
 Profile-https://github.com/ritubansal046-rb
