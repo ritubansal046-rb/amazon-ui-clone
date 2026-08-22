@@ -10,4 +10,6 @@ Git & GitHub - Version control and Project hosting
 <br><hr>
 Created By-Ritu Bansal
 <br>
+Live Website - https://github.com/ritubansal046-rb/amazon-ui-clone/deployments/github-pages
+<br>
 Profile-https://github.com/ritubansal046-rb
