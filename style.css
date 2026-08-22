@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url(/public/images/Amazon-Logo.webp);
+    background-image: url(public/images/Amazon-Logo.webp);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -136,7 +136,7 @@
 
 /* styling mains section*/
 .main-sec {
-    background-image: url(/public/images/main_image.jpg);
+    background-image: url(public/images/main_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -242,7 +242,7 @@ ul p {
 }
 
 .logo{
-    background-image: url(/public/images/Amazon-Logo.webp);
+    background-image: url(public/images/Amazon-Logo.webp);
     background-size: cover;
     height: 50px;
     width: 130px;
